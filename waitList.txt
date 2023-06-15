@@ -1,0 +1,12 @@
+Last and First Name:    |   Priority, Mileage, Years:
+         Nguyen, Baclan          | 93 | 93000 | 3
+          Trapp, Amanda          | 90 | 89000 | 3
+        Rexroad, Warren          | 74 | 72000 | 7
+       Gonzales, Jorge           | 61 | 65000 | 2
+         Devaux, Bryan           | 57 | 53000 | 5
+      Lightfoot, Dave            | 56 | 63000 | 3
+            Chu, Steve           | 37 | 42000 | 4
+           Hung, Paula           | 30 | 34000 | 3
+          Brown, Joanne          | 24 | 33000 | 2
+          Mason, Lou             | 19 | 21000 | 6
+         Gilley, Sarah           | 14 | 17000 | 1
